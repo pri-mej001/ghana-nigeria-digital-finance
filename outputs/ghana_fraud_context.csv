@@ -1,0 +1,7 @@
+year,sector,reported_cases,reported_amount_ghs_million,amount_measure,source_file,source_location
+2023,Banks,969,63.0,reported loss,BANKS-SDIs-PSPs-2023-FRAUD-REPORT.pdf,pp. 9-10
+2023,SDIs,241,8.7,reported loss,BANKS-SDIs-PSPs-2023-FRAUD-REPORT.pdf,pp. 13-14
+2023,PSPs,14655,16.0,reported loss,BANKS-SDIs-PSPs-2023-FRAUD-REPORT.pdf,pp. 16-17
+2024,Banks,716,75.0,value at risk,NOTICE-NO.-BG-GOV-SEC-2025-09-Publication-of-Banks-SDIS-and-PSPS-2024-Fraud-Report-1.pdf,pp. 11-12
+2024,SDIs,344,4.5,value at risk,NOTICE-NO.-BG-GOV-SEC-2025-09-Publication-of-Banks-SDIS-and-PSPS-2024-Fraud-Report-1.pdf,pp. 15-16
+2024,PSPs,15673,19.0,value at risk,NOTICE-NO.-BG-GOV-SEC-2025-09-Publication-of-Banks-SDIS-and-PSPS-2024-Fraud-Report-1.pdf,pp. 20-21

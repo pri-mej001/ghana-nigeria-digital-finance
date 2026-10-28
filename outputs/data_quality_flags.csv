@@ -1,0 +1,9 @@
+source,severity,issue,impact
+IMF FAS,high,Nigeria active mobile-money accounts end in 2023,No 2024-2025 comparison of active accounts is available for Nigeria in this extract.
+IMF FAS,high,"Nigeria mobile-money transactions per 1,000 adults rise about 5.4x from 2022 to 2023",Confirm reporting continuity and source notes before presenting the trend as an underlying market acceleration.
+IMF FAS,high,Nigeria registered mobile-money accounts rise about 143% from 2024 to 2025,Validate the latest observation and definitions; account totals are not unique customers.
+CBN Statistical Bulletin,high,Payment-system statistics include intra-bank transactions from 2020,Interpret long-term growth with this source-defined break in mind.
+CBN Statistical Bulletin,high,NIP has missing 2021-2024 months in A9 and resumes in 2025,Do not treat absent monthly values as zero or calculate a continuous NIP trend across the gap.
+CBN Statistical Bulletin,medium,2026 payment observations run only through March,2026 is a partial year and must not be compared with full-year totals.
+Bank of Ghana Fraud Reports,high,2023 report uses loss-value language; 2024 report reports value at risk,Avoid a direct year-over-year monetary fraud comparison without reconciled definitions.
+PaySim,high,Transaction labels are synthetic and highly imbalanced,Model metrics demonstrate workflow only and do not estimate fraud detection performance in Ghana or Nigeria.

@@ -1,0 +1,26 @@
+country,indicator,series_code,TYPE_OF_TRANSFORMATION,SCALE,UNIT,first_year,last_year,observations
+Ghana,Active mobile money accounts,GHA.FA63._Z._Z._T.NUM.A,Number,Units,Number,2012,2025,14
+Ghana,Active mobile money accounts,GHA.FA63._Z._Z._T.PTADLT_NUM.A,"Per 1,000 adults",Units,Number,2012,2025,14
+Ghana,Active mobile money agent outlets,GHA.FA5._Z._Z._T.NUM.A,Number,Units,Number,2012,2025,14
+Ghana,Active mobile money agent outlets,GHA.FA5._Z._Z._T.PTKM2_NUM.A,"Per 1,000 square km",Units,Number,2012,2025,14
+Ghana,Depositors,GHA.FA29._Z.COMBANK._T.NUM.A,Number,Units,Number,2005,2025,21
+Ghana,Depositors,GHA.FA29._Z.COMBANK._T.PTADLT_NUM.A,"Per 1,000 adults",Units,Number,2005,2025,21
+Ghana,Mobile and internet banking transactions (during the reference year),GHA.FA35.COMBANK._Z._T.NUM.A,Number,Units,Number,2016,2025,10
+Ghana,Mobile and internet banking transactions (during the reference year),GHA.FA35.COMBANK._Z._T.XDC.A,Domestic currency,Millions,Domestic currency,2016,2025,10
+Ghana,Mobile money transactions (during the reference year),GHA.FA66._Z._Z._T.NUM.A,Number,Units,Number,2012,2025,14
+Ghana,Mobile money transactions (during the reference year),GHA.FA66._Z._Z._T.PTADLT_NUM.A,"Per 1,000 adults",Units,Number,2012,2025,14
+Ghana,Registered mobile money accounts,GHA.FA67._Z._Z._T.NUM.A,Number,Units,Number,2012,2025,14
+Ghana,Registered mobile money accounts,GHA.FA67._Z._Z._T.PTADLT_NUM.A,"Per 1,000 adults",Units,Number,2012,2025,14
+Ghana,Value of mobile money transactions (during the reference year),GHA.FA65._Z._Z._T.POGDP.A,Percent of GDP,Units,,2012,2025,14
+Ghana,Value of mobile money transactions (during the reference year),GHA.FA65._Z._Z._T.XDC.A,Domestic currency,Millions,Domestic currency,2012,2025,14
+Nigeria,Active mobile money accounts,NGA.FA63._Z._Z._T.NUM.A,Number,Units,Number,2021,2023,3
+Nigeria,Active mobile money accounts,NGA.FA63._Z._Z._T.PTADLT_NUM.A,"Per 1,000 adults",Units,Number,2021,2023,3
+Nigeria,Active mobile money agent outlets,NGA.FA5._Z._Z._T.NUM.A,Number,Units,Number,2021,2023,3
+Nigeria,Depositors,NGA.FA29._Z.COMBANK._T.NUM.A,Number,Units,Number,2007,2025,19
+Nigeria,Depositors,NGA.FA29._Z.COMBANK._T.PTADLT_NUM.A,"Per 1,000 adults",Units,Number,2007,2025,19
+Nigeria,Mobile money transactions (during the reference year),NGA.FA66._Z._Z._T.NUM.A,Number,Units,Number,2012,2025,14
+Nigeria,Mobile money transactions (during the reference year),NGA.FA66._Z._Z._T.PTADLT_NUM.A,"Per 1,000 adults",Units,Number,2012,2025,14
+Nigeria,Registered mobile money accounts,NGA.FA67._Z._Z._T.NUM.A,Number,Units,Number,2012,2025,14
+Nigeria,Registered mobile money accounts,NGA.FA67._Z._Z._T.PTADLT_NUM.A,"Per 1,000 adults",Units,Number,2012,2025,14
+Nigeria,Value of mobile money transactions (during the reference year),NGA.FA65._Z._Z._T.POGDP.A,Percent of GDP,Units,,2012,2025,14
+Nigeria,Value of mobile money transactions (during the reference year),NGA.FA65._Z._Z._T.XDC.A,Domestic currency,Millions,Domestic currency,2012,2025,14
