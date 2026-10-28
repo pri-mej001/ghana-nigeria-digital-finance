@@ -5,7 +5,7 @@ A reproducible portfolio analysis for fintech and payments stakeholders. It exam
 ## Start here
 
 - Open [visualizations/index.html](visualizations/index.html) in a browser for the dashboard.
-- Read [outputs/management_brief.md](outputs/management_brief.md) for the management interpretation and caveats.
+- Read [management_brief.md](management_brief.md) for the management interpretation and caveats.
 - Read [outputs/initial_data_review.md](outputs/initial_data_review.md) for source coverage and data-quality notes.
 - Review the scripts in [src/](src/) for extraction, aggregation, and modeling logic.
 
